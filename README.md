@@ -16,16 +16,27 @@ controls:
 
 
 "A" button: for tap tempo/setting the BPM
+
 "B" button: lets lighting/bloom flash
+
 "X" button: the "videowall" effect, replicating the video in a video matrix. Each press of the button zooms further out. The 4th step will result in a 5x5 matrix, another button press resets the effect.
+
 "Y" button: starts/stops BPM timed FX.
+
 "RB" & "LB": switch BPM timed FX (at the moment there are 4 different ones)
+
 "RT": Edge detection
+
 "LT": Strobe (the more you press the button the higher the frequency)
+
 "D-Pad Right": switch color
+
 "D-Pad Up/Down": switch between cameras
+
 "D-Pad Left": switch between animated and static FOV
+
 "Left Stick": control the car
+
 "Right Stick": control the camera
 
 
