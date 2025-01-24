@@ -50,8 +50,13 @@ If there is bugs/ideas/comments please let me know, i am glad about any feedback
 
 
 changelog:
+
 v0.11:
+
 -performance optimizations
+
 -added car animation
+
 -added reset button
+
 -improved visuals
