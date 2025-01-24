@@ -39,9 +39,19 @@ controls:
 
 "Right Stick": control the camera
 
+"select": resets all effects
+
 
 There is NO quit button at the moment, you need to end the programm with alt+F4.
 
 The programm supports "Spout" where it shares the video output with other programms like Resolume or OBS for example so you can use it with projection mapping software.
 
 If there is bugs/ideas/comments please let me know, i am glad about any feedback i get! @VJ.Monkeyman on instagram or https://www.reddit.com/user/Benjie936/ on reddit
+
+
+changelog:
+v0.11:
+-performance optimizations
+-added car animation
+-added reset button
+-improved visuals
